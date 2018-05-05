@@ -6,4 +6,4 @@ HelgeApps does not collect any statistics, personal information, or analytics fr
 
 ### Support or Contact
 
-Having any questions? [contact support](email://8helge8@gmail.com) and we’ll answer you.
+Having any questions? [contact support](mailto://8helge8@gmail.com) and we’ll answer you.
