@@ -1,37 +1,14 @@
 ## Privacy
 
-You can use the [editor on GitHub](https://github.com/HelgeApps/LPlayer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This privacy policy covers the use of the 'VLC for Android', 'VLC for WinRT' and 'VLC for iOS' / 'VLC for tvOS' applications.
+It may not be applicable to other software produced or released by VideoLAN.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+VideoLAN does not collect any statistics, personal information, or analytics from our users, other than built in mechanisms that are present for all the mobile or embedded applications in their respective main distribution channels.
 
-```markdown
-Syntax highlighted code block
-
-# Privacy
-## LPlayer (Android App)
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HelgeApps/LPlayer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The mobile or embedded versions of 'VLC' do allow for videos to be played via various network transports. Cookies are not stored at any point. Authentication credentials can be stored optionally on the user's local device upon the user's explicit request. On iOS and tvOS, authentication credentials can be shared across devices using proprietary encryption mechanisms provided by the host operating system, dubbed iCloud Keychain. VideoLAN does not have access to any information stored within.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any questions? [contact support](email://8helge8@gmail.com) and we’ll answer you.
