@@ -8,8 +8,8 @@ HelgeApps does not collect any statistics, personal information, or analytics fr
 
 ### LPlayer Permissions
 
-- INTERNET (search and download subtitles)
 - STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
+- INTERNET (search and download subtitles)
 
 ### Support or Contact
 
