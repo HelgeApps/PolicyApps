@@ -14,7 +14,6 @@ HelgeApps does not collect any statistics, personal information, or analytics fr
 ### 'K-POP YouTube - Popular & Recent' Permissions
 
 - INTERNET (load video information)
-- READ STORAGE (to load saved thumbnails of videos)
 
 ### Support or Contact
 
