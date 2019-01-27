@@ -2,7 +2,7 @@
 
 This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' (apps for Android).
 
-HelgeApps does not collect any statistics, personal information, or analytics from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels.
+HelgeApps does not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels.
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a>
 ### 'LPlayer' Permissions
