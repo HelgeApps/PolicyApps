@@ -20,7 +20,7 @@ Our apps use some third-party libraries (AdMob to show ads, Firebase services) w
 <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a>
 ### 'K-POP YouTube - Popular & Recent' Permissions
 
-- INTERNET (load video information)
+- INTERNET (display videos)
 
 ###  Changes to This Privacy Policy
 
