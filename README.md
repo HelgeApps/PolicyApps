@@ -7,7 +7,7 @@ We (HelgeApps) personally do not collect any personal information from our users
 Our apps use some third-party libraries (Android Advertising ID, Advertising Identifier for iOS, Firebase services) which can collect some information from you. You can check their Private Policy at:
 - [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)
 - [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
-- [https://firebase.google.com/support/privacy/]([https://firebase.google.com/support/privacy/)
+- [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
 - [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo)
 - [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/)
 
