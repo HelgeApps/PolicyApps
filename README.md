@@ -22,6 +22,10 @@ Our apps use some third-party libraries (AdMob to show ads, Firebase services) w
 
 - INTERNET (load video information)
 
+###  Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
 ### Support or Contact
 
 Having any questions? [Сontact support](mailto://8helge8@gmail.com) and we will answer you.
