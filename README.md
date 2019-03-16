@@ -10,6 +10,7 @@ Our apps use some third-parties libraries (Android Advertising ID, Advertising I
 - https://firebase.google.com/support/privacy/dpo
 - https://firebase.google.com/policies/analytics/
 
+
 <a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a>
 ### 'LPlayer' Permissions
 
