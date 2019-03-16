@@ -24,4 +24,4 @@ Our apps use some third-party libraries (Android Advertising ID, Advertising Ide
 
 ### Support or Contact
 
-Having any questions? [Сontact support](mailto://8helge8@gmail.com) and we’ll answer you.
+Having any questions? [Сontact support](mailto://8helge8@gmail.com) and we will answer you.
