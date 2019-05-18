@@ -2,7 +2,7 @@
 
 Last updated February 16, 2019
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' (apps for Android).
+This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' (apps for Android/iOS).
 
 ### Information Collection
 
@@ -24,7 +24,7 @@ Our apps use some third-party libraries (AdMob to show ads, Firebase services) w
 <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a>
 ### 'K-POP YouTube - Popular & Recent' Permissions
 
-- INTERNET (display videos)
+- INTERNET (playing videos)
 
 ###  Changes to This Privacy Policy
 
