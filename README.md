@@ -30,7 +30,7 @@ Our apps use some third-party libraries (AdMob to show ads, Firebase services) w
 ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
 
 - CAMERA, AUDIO - for video recording
-- STORAGE (for saving recording videos, video delete option)
+- STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
 - INTERNET (ads)
 
