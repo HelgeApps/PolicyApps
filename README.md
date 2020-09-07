@@ -2,7 +2,7 @@
 
 Last updated February 16, 2019
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' (apps for Android/iOS).
+This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' (apps for Android).
 
 ### Information Collection
 
