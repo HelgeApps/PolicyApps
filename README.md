@@ -29,10 +29,10 @@ Our apps use some third-party libraries (AdMob to show ads, Firebase services) w
 <a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" class="inline"/></a>
 ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
 
-- INTERNET (playing videos, ads)
+- CAMERA, AUDIO - for video recording
 - STORAGE (for saving recorder videos, video delete option)
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
-- CAMERA, AUDIO - for video recording
+- INTERNET (ads)
 
 ###  Changes to This Privacy Policy
 
