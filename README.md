@@ -1,6 +1,6 @@
 ## HelgeApps Privacy Policy
 
-Last updated February 16, 2019
+Last updated September 7, 2020 (added new app desciption)
 
 This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent' & 'Droid Dashcam - Driving video recorder, BlackBox' (apps for Android).
 
