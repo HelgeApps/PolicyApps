@@ -35,6 +35,12 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
 - INTERNET (ads)
 
+<a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
+" class="inline"/></a>
+### 'Movies Easy Finder (IMDb)' Permissions
+
+- INTERNET (ads)
+
 ###  Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
