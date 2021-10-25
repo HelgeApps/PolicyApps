@@ -21,9 +21,11 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
 - INTERNET (search and download subtitles, ads)
 
+
 <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a>
 ### 'K-POP YouTube - Popular & Recent' Permissions
 - INTERNET (playing videos, ads)
+
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" class="inline"/></a>
 ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
@@ -32,10 +34,12 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
 - INTERNET (ads)
 
+
 <a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a> 
 ### 'Media Files Explorer' Permissions
 - STORAGE (find and display media files, option for user to delete selected media files)
 - INTERNET (ads)
+
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
 " class="inline"/></a>
