@@ -2,7 +2,7 @@
 
 Last updated September 7, 2020 (added new app desciption)
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox' & 'Movies Easy Finder' (apps for Android).
+This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder' (apps for Android).
 
 ### Information Collection
 
@@ -33,6 +33,12 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - CAMERA, AUDIO (for video recording)
 - STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
+- INTERNET (ads)
+
+<a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a> 
+### 'Media Files Explorer' Permissions
+
+- STORAGE (find and display media files, option for user to delete selected media files)
 - INTERNET (ads)
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
