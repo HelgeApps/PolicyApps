@@ -16,8 +16,7 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo)
 - [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a> 
-### 'LPlayer' Permissions
+<a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a> ### 'LPlayer' Permissions
 - STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
 - INTERNET (search and download subtitles, ads)
 
