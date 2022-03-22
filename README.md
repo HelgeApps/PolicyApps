@@ -1,4 +1,4 @@
-## HelgeApps Privacy Policy
+## HelgeApps/DroidCoolApps Privacy Policy
 
 Last updated September 7, 2020 (added new app desciption)
 
@@ -6,7 +6,7 @@ This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & 
 
 ### Information Collection
 
-We (HelgeApps) personally do not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels and third-party libraries.
+We (DroidCoolApps) personally do not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels and third-party libraries.
 
 Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase services) which can collect some information from you. You can check their Private Policy at:
 - [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)
