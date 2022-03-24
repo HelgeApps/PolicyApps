@@ -1,4 +1,4 @@
-## HelgeApps/DroidCoolApps Privacy Policy
+## DroidCoolApps Privacy Policy
 
 Last updated September 7, 2020 (added new app desciption)
 
