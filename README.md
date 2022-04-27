@@ -2,7 +2,7 @@
 
 Last updated April 27, 2022 (added new app desciption)
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder' (apps for Android).
+This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder', 'Background Video Recorder' (apps for Android).
 
 ### Information Collection
 
