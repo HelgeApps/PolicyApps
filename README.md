@@ -1,6 +1,6 @@
-## DroidCoolApps Privacy Policy
+## DroidCoolApps (HelgeApps) Privacy Policy
 
-Last updated September 7, 2020 (added new app desciption)
+Last updated April 27, 2022 (added new app desciption)
 
 This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder' (apps for Android).
 
@@ -32,6 +32,13 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - CAMERA, AUDIO (for video recording)
 - STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
+- INTERNET (ads)
+
+
+<a href="https://play.google.com/store/apps/details?id=com.helge.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a>
+### 'Background Video Recorder' Permissions
+- CAMERA, AUDIO (for video recording)
+- STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
 - INTERNET (ads)
 
 
