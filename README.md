@@ -1,8 +1,8 @@
 ## DroidCoolApps (HelgeApps) Privacy Policy
 
-Last updated April 27, 2022 (added new app desciption)
+Last updated May 18, 2022 (added new app desciption)
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder', 'Background Video Recorder' (apps for Android).
+This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder', 'Background Video Recorder', 'Dual Camera Video Recorder' (apps for Android).
 
 ### Information Collection
 
@@ -30,7 +30,7 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 <a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" class="inline"/></a>
 ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
 - CAMERA, AUDIO (for video recording)
-- STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
+- STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
 - INTERNET (ads)
 
@@ -38,7 +38,14 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 <a href="https://play.google.com/store/apps/details?id=com.helge.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a>
 ### 'Background Video Recorder' Permissions
 - CAMERA, AUDIO (for video recording)
-- STORAGE (for saving recording videos to shared 'Movies' folder, video delete option)
+- STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
+- INTERNET (ads)
+
+
+<a href="https://play.google.com/store/apps/details?id=com.helge.dualcameravideorecorder"><img src="dual_camera_video_recorder.png" alt="Dual Camera Video Recorder" class="inline"/></a>
+### 'Dual Camera Video Recorder' Permissions
+- CAMERA, AUDIO (for video recording)
+- STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
 - INTERNET (ads)
 
 
