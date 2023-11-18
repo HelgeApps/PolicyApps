@@ -47,7 +47,7 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - CAMERA, AUDIO (for video recording)
 - STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
 - INTERNET (ads)
-
+- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a> 
 ### 'Media Files Explorer' Permissions
