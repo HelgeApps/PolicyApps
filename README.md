@@ -1,12 +1,12 @@
-## DroidCoolApps (HelgeApps) Privacy Policy
+## HelgeApps Privacy Policy
 
-Last updated May 18, 2022 (added new app desciption)
+Last updated Novemeber 19, 2023 (added new app desciption)
 
-This privacy policy covers the use of the 'LPlayer', 'K-POP YouTube - Popular & Recent', 'Droid Dashcam - Driving video recorder, BlackBox', 'Media Files Explorer' & 'Movies Easy Finder', 'Background Video Recorder', 'Dual Camera Video Recorder' (apps for Android).
+This privacy policy covers the use of the 'K-POP YouTube - Popular & Recent', 'Background Video Recorder' (apps for Android).
 
 ### Information Collection
 
-We (DroidCoolApps) personally do not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels and third-party libraries.
+We (HelgeApps) personally do not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels and third-party libraries.
 
 Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase services) which can collect some information from you. You can check their Private Policy at:
 - [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)
@@ -16,49 +16,16 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 - [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo)
 - [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.lplayer"><img src="ic_launcher.png" alt="LPlayer" class="inline"/></a>
-### 'LPlayer' Permissions
-- STORAGE (find video files, save downloaded subtitles, option for user to delete selected video file)
-- INTERNET (search and download subtitles, ads)
-
-
 <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a>
 ### 'K-POP YouTube - Popular & Recent' Permissions
 - INTERNET (playing videos, ads)
-
-
-<a href="https://play.google.com/store/apps/details?id=com.helge.droiddashcam"><img src="droiddashcam.png" alt="Droid Dashcam" class="inline"/></a>
-### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
-- CAMERA, AUDIO (for video recording)
-- STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
-- LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
 
 <a href="https://play.google.com/store/apps/details?id=com.helge.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a>
 ### 'Background Video Recorder' Permissions
 - CAMERA, AUDIO (for video recording)
 - STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
 - INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
-
-<a href="https://play.google.com/store/apps/details?id=com.helge.dualcameravideorecorder"><img src="dual_camera_video_recorder.png" alt="Dual Camera Video Recorder" class="inline"/></a>
-### 'Dual Camera Video Recorder' Permissions
-- CAMERA, AUDIO (for video recording)
-- STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
-
-<a href="https://play.google.com/store/apps/details?id=com.helge.mediafiles"><img src="mediafiles.png" alt="Media Files Explorer" class="inline"/></a> 
-### 'Media Files Explorer' Permissions
-- STORAGE (find and display media files, option for user to delete selected media files)
-- INTERNET (ads)
-
-
-<a href="https://play.google.com/store/apps/details?id=com.helge.movieseasyfinder"><img src="MoviesEasyFinder.png" alt="Movies Easy Finder (IMDb)
-" class="inline"/></a>
-### 'Movies Easy Finder (IMDb)' Permissions
-- INTERNET (ads)
+- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
 
 ###  Changes to This Privacy Policy
 
