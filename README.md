@@ -20,7 +20,7 @@ Our apps use some third-party libraries (AdMob & Mopub to show ads, Firebase ser
 ### 'K-POP YouTube - Popular & Recent' Permissions
 - INTERNET (playing videos, ads)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a>
 ### 'Background Video Recorder' Permissions
 - CAMERA, AUDIO (for video recording)
 - STORAGE (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option)
