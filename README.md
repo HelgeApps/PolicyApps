@@ -13,17 +13,17 @@ Our apps use some third-party libraries (AdMob to show ads, In App Billing for p
 - Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics) [https://firebase.google.com/docs/android/play-data-disclosure](https://firebase.google.com/docs/android/play-data-disclosure), [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo), [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/)
 - Google Play's billing - [https://support.google.com/googleplay/android-developer/answer/10281818](https://support.google.com/googleplay/android-developer/answer/10281818)
 
-You can also check Date Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
 
 ### Apps permissions:
 
-<a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a> ### 'Background Video Recorder' Permissions
+<a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a> 'Background Video Recorder' Permissions
 - CAMERA, AUDIO (for video recording)
 - STORAGE for Android 12 and lower (for saving recording videos to shared 'Movies' or 'DCIM' folder, video delete option) or if Android support then use can choose any folder without this permission
 - INTERNET (ads)
 - Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a> ### 'K-POP YouTube - Popular & Recent' Permissions
+<a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a> 'K-POP YouTube - Popular & Recent' Permissions
 - INTERNET (playing videos, ads)
 
 ###  Changes to This Privacy Policy:
