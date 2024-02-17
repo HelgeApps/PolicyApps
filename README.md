@@ -23,7 +23,7 @@ You can also check Data Safety section for each app at Google Play to find out w
 - INTERNET (ads)
 - Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
 
-<a href="https://play.google.com/store/apps/details?id=com.helgeapps.voice_recorder"><img src="voice_recorder.webp" alt="Voice Recorder" class="inline"/></a> 'Voice Recorder in Background' Permissions
+<a href="https://play.google.com/store/apps/details?id=com.helge.voice_recorder"><img src="voice_recorder.webp" alt="Voice Recorder" class="inline"/></a> 'Voice Recorder in Background' Permissions
 - AUDIO / MIC (for audio recording)
 - STORAGE for Android 10 and lower (for saving voice recordings to shared 'MUSIC' folder, and for voice recordings deletion option) in  case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
 - INTERNET (ads)
