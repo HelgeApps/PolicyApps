@@ -37,7 +37,7 @@ For more information:
 [Google Analytics Terms](https://marketingplatform.google.com/about/analytics/terms/us/)
 
 #### 3. Google Play Billing
-Used for in-app purchases (e.g., to remove ads).
+Used for in-app purchases (to remove ads).
 
 For more information:  
 [Google Play Billing Privacy](https://support.google.com/googleplay/android-developer/answer/10281818)
