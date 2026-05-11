@@ -10,7 +10,9 @@ This Privacy Policy applies to the following Android applications:
 
 ### Data Collection
 
-Our apps use the following third-party services:
+Our apps do not collect any personal information from you.
+
+We utilize the following third-party services to collect anonymous usage data for analytics and performance monitoring purposes. This data helps us understand how users interact with the apps, identify and fix bugs faster, and continuously improve user experience.
 
 #### 1. Google AdMob (Mobile Ads)
 Used for displaying advertisements in the apps.
