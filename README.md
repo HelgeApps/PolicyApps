@@ -21,8 +21,6 @@ Used for displaying advertisements in the apps.
 - Diagnostic information (app launch time, hang rate, energy usage, etc.)
 - Device and account identifiers (Android Advertising ID, App Set ID, and other identifiers if signed-in accounts are present)
 
-The primary identifier used for ad personalization is the **Android Advertising ID (GAID)**.
-
 For more information:  
 [AdMob Data Disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)  
 [AdMob Privacy & Safety](https://support.google.com/admob/answer/6128543)  
