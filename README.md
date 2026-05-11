@@ -1,41 +1,80 @@
-## HelgeApps Privacy Policy
+## DroidCoolApps (HelgeApps) Privacy Policy
 
-Last updated December 12, 2023
+**Last updated:** May 11, 2026
 
-This privacy policy covers the use of the 'K-POP YouTube - Popular & Recent', 'Background Video Recorder' (apps for Android).
+This Privacy Policy applies to the following Android applications:
 
-### Information Collection:
+- **Background Video Recorder**
+- **Voice Recorder in Background**
+- **K-POP YouTube - Popular & Recent**
 
-We (HelgeApps) personally DO NOT collect any personal information to our own servers (which we also don't even have) from our users except the information which is collected by third-party libraries of Google (Admob/Firebase) we use in our apps - please check the following info about it:
+### Data Collection
 
-Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase services) which can collect some information from you. You can check their Private Policy at:
-- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543), [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads), [https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
-- Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics) [https://firebase.google.com/docs/android/play-data-disclosure](https://firebase.google.com/docs/android/play-data-disclosure), [https://firebase.google.com/support/privacy/dpo]( https://firebase.google.com/support/privacy/dpo), [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/)
-- Google Play's billing - [https://support.google.com/googleplay/android-developer/answer/10281818](https://support.google.com/googleplay/android-developer/answer/10281818)
+Our apps use the following third-party services:
 
-You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+#### 1. Google AdMob (Mobile Ads)
+Used for displaying advertisements in the apps.
 
-### Apps permissions:
+**Data collected by AdMob:**
+- IP address (may be used to estimate general device location)
+- User product interactions (app launches, taps, video views, etc.)
+- Diagnostic information (app launch time, hang rate, energy usage, etc.)
+- Device and account identifiers (Android Advertising ID, App Set ID, and other identifiers if signed-in accounts are present)
 
-<a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" class="inline"/></a> 'Background Video Recorder' Permissions
-- CAMERA, AUDIO (for video recording)
-- STORAGE for Android 12 and lower (for saving video recordings to shared 'DCIM' folder, and for video recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
+The primary identifier used for ad personalization is the **Android Advertising ID (GAID)**.
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.voice_recorder"><img src="voice_recorder.webp" alt="Voice Recorder" class="inline"/></a> 'Voice Recorder in Background' Permissions
-- AUDIO / MIC (for audio recording)
-- STORAGE for Android 10 and lower (for saving voice recordings to shared 'MUSIC' folder, and for voice recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
-- INTERNET (ads)
-- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new voice recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
+For more information:  
+[AdMob Data Disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)  
+[AdMob Privacy & Safety](https://support.google.com/admob/answer/6128543)  
+[Google Ads Policies](https://policies.google.com/technologies/ads)
 
-<a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" class="inline"/></a> 'K-POP YouTube - Popular & Recent' Permissions
-- INTERNET (playing videos, ads)
+#### 2. Google Firebase Services
+(Google Analytics for Firebase, Crashlytics, Cloud Messaging, In-App Messaging, Remote Config)
 
-###  Changes to This Privacy Policy:
+Used for **anonymous analytics**, crash reporting, error detection, and app performance monitoring.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+For more information:  
+[Firebase Play Data Disclosure](https://firebase.google.com/docs/android/play-data-disclosure)  
+[Firebase Privacy](https://firebase.google.com/support/privacy/dpo)  
+[Google Analytics Terms](https://marketingplatform.google.com/about/analytics/terms/us/)
 
-### Support or Contact
+#### 3. Google Play Billing
+Used for in-app purchases (e.g., to remove ads).
 
-Having any questions? [Сontact support](mailto://8helge8@gmail.com) and we will answer you.
+For more information:  
+[Google Play Billing Privacy](https://support.google.com/googleplay/android-developer/answer/10281818)
+
+You can also review the **Data Safety** section of each app on the Google Play Store for detailed information.
+
+### App Permissions
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" width="48" style="vertical-align:middle;"/></a> Background Video Recorder
+
+1. **CAMERA + AUDIO** — Required for video recording.  
+2. **STORAGE** (Android 12 and below) — Used to save recordings to public `DCIM` folders when needed. On newer Android versions, you can select any folder without this permission.  
+3. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.  
+4. **FOREGROUND SERVICE** — Allows continuous video recording in the background (visible via notification). Some automatic recording features depend on this service.
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.voice_recorder"><img src="voice_recorder.webp" alt="Voice Recorder" width="48" style="vertical-align:middle;"/></a> Voice Recorder in Background
+
+1. **AUDIO / MIC** — Required for audio recording.  
+2. **STORAGE** (Android 10 and below) — Used to save recordings to public `MUSIC` folders when needed. On newer Android versions, you can select any folder without this permission.  
+3. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.  
+4. **FOREGROUND SERVICE** — Allows continuous audio recording in the background (visible via notification). Some automatic recording features depend on this service.
+
+#### <a href="https://play.google.com/store/apps/details?id=com.helge.kpopyoutube"><img src="kpop_tube.png" alt="K-POP Tube" width="48" style="vertical-align:middle;"/></a> K-POP YouTube - Popular & Recent
+
+- **INTERNET** — Required to play videos, display ads, and for anonymous analytics.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated “Last updated” date. Changes are effective immediately upon posting.
+
+### Contact / Support
+
+If you have any questions or concerns, please feel free to contact us:  
+[cooldroidapps4@gmail.com](mailto:8helge8@gmail.com))
+
+---
+
+*This Privacy Policy was last updated on May 11, 2026.*
