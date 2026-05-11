@@ -49,14 +49,14 @@ You can also review the **Data Safety** section of each app on the Google Play S
 #### <a href="https://play.google.com/store/apps/details?id=com.helgeapps.backgroundvideorecorder"><img src="background_video_recorder.png" alt="Background Video Recorder" width="48" style="vertical-align:middle;"/></a> Background Video Recorder
 
 1. **CAMERA + AUDIO** — Required for video recording.  
-2. **STORAGE** (Android 12 and below) — Used to save recordings to public `DCIM` folders when needed. On newer Android versions, you can select any folder without this permission.  
+2. **STORAGE** (Android 10 and below) — Used to save recordings to public `DCIM` folders when the Storage Access Framework is not supported. On Android 11+, you can choose any folder without this permission using the modern Storage Access Framework.
 3. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.  
 4. **FOREGROUND SERVICE** — Allows continuous video recording in the background (visible via notification). Some automatic recording features depend on this service.
 
 #### <a href="https://play.google.com/store/apps/details?id=com.helge.voicerecorder"><img src="voice_recorder.webp" alt="Voice Recorder" width="48" style="vertical-align:middle;"/></a> Voice Recorder in Background
 
 1. **AUDIO / MIC** — Required for audio recording.  
-2. **STORAGE** (Android 10 and below) — Used to save recordings to public `MUSIC` folders when needed. On newer Android versions, you can select any folder without this permission.  
+2. **STORAGE** (Android 10 and below) — Used to save recordings to public `MUSIC` folders when the Storage Access Framework is not supported. On Android 11+, you can choose any folder without this permission using the modern Storage Access Framework.
 3. **INTERNET** — Required for ads, anonymous analytics, and in-app purchases.  
 4. **FOREGROUND SERVICE** — Allows continuous audio recording in the background (visible via notification). Some automatic recording features depend on this service.
 
