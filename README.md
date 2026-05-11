@@ -29,7 +29,7 @@ For more information:
 #### 2. Google Firebase Services
 (Google Analytics for Firebase, Crashlytics, Cloud Messaging, In-App Messaging, Remote Config)
 
-Used for **anonymous analytics**, crash reporting, error detection, and app performance monitoring.
+Used for **anonymous analytics**, crash reporting, error detection, and app performance monitoring. This helps us identify bugs faster and deliver better updates.
 
 For more information:  
 [Firebase Play Data Disclosure](https://firebase.google.com/docs/android/play-data-disclosure)  
